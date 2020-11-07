@@ -17,26 +17,25 @@ import './App.css';
 
 const App = () => {
   return (
-    <div >
+    <div className="App" style={{ position: "relative" }}>
         <Navbar/>
         <HomeCarousel/>
         <TitleComponent/>
         <div>
-          <Parallax
-            blur={{ min: -30, max: 30 }}
-            bgImage={require("./assets/img/background/fondo.jpg")}
-            bgImageAlt=""
-            strength={-200}
+        <Parallax
+          blur={{ min: -30, max: 30 }}
+          bgImage={require("./assets/img/parallex/background.webp")}
+          bgImageAlt=""
+          strength={-200}
         >
-            <div>
-            <Container className="container-box rounded" >
+          <div>
+            <Container className="container-box rounded">
               <Fade duration={500}>
-                <About/>
+                <About />
               </Fade>
-               
             </Container>
-            </div>
-          </Parallax>
+          </div>
+        </Parallax>
           
         </div>
         

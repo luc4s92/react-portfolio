@@ -29,6 +29,7 @@ const About = () => {
                             My goal is always driven towards providing amazing experience with the best level of quality and service to them.
                             I love learning about new technologies, what problems are they solving and how can I use them to build better and scalable products.
                             </p>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid atque culpa animi impedit doloremque eveniet numquam quae, quam commodi, veritatis distinctio asperiores minima laborum possimus provident deserunt dolores non similique nemo ratione voluptatum aperiam delectus ab accusantium. Nemo, reprehenderit ex!</p>
                         </Row>
                         <Row>
                             {/*buttons */}
@@ -68,7 +69,7 @@ const About = () => {
 
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default About
+export default About;

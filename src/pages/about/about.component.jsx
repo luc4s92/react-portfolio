@@ -24,7 +24,7 @@ const About = () => {
 
                     <Col xs={12} md={6}>
                         <Row className=" align-items-start p-2 my-details rounded">
-                            <h3>Hi i'm  <strong>Lucas Gonzalez</strong></h3>
+                            <h3>Hi i'm  <strong> <span className="name-style">Lucas Gonzalez</span></strong></h3>
                             <p>A passionate programmer. I am a Full Stack Web Developer with JavaScript, Angular, React.js, Node.js as my tech stack.
                             My goal is always driven towards providing amazing experience with the best level of quality and service to them.
                             I love learning about new technologies, what problems are they solving and how can I use them to build better and scalable products.

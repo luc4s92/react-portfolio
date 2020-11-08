@@ -24,7 +24,7 @@ const App = () => {
         <div>
         <Parallax
           blur={{ min: -30, max: 30 }}
-          bgImage={require("./assets/img/parallex/background.webp")}
+          bgImage={require("./assets/img/parallex/fondo.jpg")}
           bgImageAlt=""
           strength={-200}
         >

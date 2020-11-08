@@ -1,5 +1,6 @@
 {
   "name": "react-portfolio",
+  "homepage": "https://luc4s92.github.io/react-portfolio",
   "version": "1.0.0",
   "private": true,
   "dependencies": {

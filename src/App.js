@@ -8,6 +8,7 @@ import Container from "react-bootstrap/Container";
 import Navbar from "./components/my-navbar/navbar.component";
 import HomeCarousel from "./components/carousel/carousel.component";
 import TitleComponent from "./components/title-message/title-message.component"
+import ProjectsTimeline from './components/projects-timeline/projects-timeline.component'
 
 //pages
 import Skills from './pages/skills/skills.component'
@@ -59,7 +60,14 @@ const App = () => {
               </Slide>
             </Container>
           </div>
-        
+          {/* Projects timeline */}
+          <div>
+            <Container className="container-box rounded">
+              <Slide bottom duration={500}>
+                <ProjectsTimeline />
+              </Slide>
+            </Container>
+          </div>
           
         </div>
 

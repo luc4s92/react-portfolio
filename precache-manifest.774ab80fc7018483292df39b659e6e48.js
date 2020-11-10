@@ -1,35 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88322311ed0fed0973ba20e268eb32a9",
+    "revision": "164579f59f072d78485ca21765bb3cfc",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "8d249c03721b08bd47fa",
-    "url": "/react-portfolio/static/css/main.bf4e0410.chunk.css"
+    "revision": "932bd817be296e27ef1b",
+    "url": "/react-portfolio/static/css/main.86f8082e.chunk.css"
   },
   {
-    "revision": "44747e6618695cd0cc12",
-    "url": "/react-portfolio/static/js/2.d76320d7.chunk.js"
+    "revision": "3d3ae18bbe83750e9669",
+    "url": "/react-portfolio/static/js/2.0d83bb36.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/react-portfolio/static/js/2.d76320d7.chunk.js.LICENSE.txt"
+    "url": "/react-portfolio/static/js/2.0d83bb36.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d249c03721b08bd47fa",
-    "url": "/react-portfolio/static/js/main.29ec34eb.chunk.js"
+    "revision": "932bd817be296e27ef1b",
+    "url": "/react-portfolio/static/js/main.c4d47d3b.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
     "url": "/react-portfolio/static/js/runtime-main.213b1880.js"
   },
   {
+    "revision": "8897aeb643b17c37ab222bf70378423c",
+    "url": "/react-portfolio/static/media/React_ToDo_List.8897aeb6.webp"
+  },
+  {
+    "revision": "9730fefc26bb187c4f4bb29b95d82e7a",
+    "url": "/react-portfolio/static/media/Robofriends.9730fefc.webp"
+  },
+  {
     "revision": "21999f09aca6272cd15a16d949434923",
     "url": "/react-portfolio/static/media/accenture-3.21999f09.svg"
   },
   {
+    "revision": "e95d05630894e5403e569fdaa0a2b61a",
+    "url": "/react-portfolio/static/media/background.e95d0563.webp"
+  },
+  {
     "revision": "ffded2381d25dd906406d6e07f91dea5",
     "url": "/react-portfolio/static/media/bootstrap-4.ffded238.svg"
+  },
+  {
+    "revision": "db3c445b93fa7336d63f617a5f087c7e",
+    "url": "/react-portfolio/static/media/brain.db3c445b.webp"
   },
   {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
@@ -56,8 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/fondo.6ad0010c.jpg"
   },
   {
+    "revision": "0692ddac9614e47c40a43276cd9287e4",
+    "url": "/react-portfolio/static/media/get_github_info.0692ddac.webp"
+  },
+  {
     "revision": "1190a19ce3cc940741a60137a1e074cb",
     "url": "/react-portfolio/static/media/git-icon.1190a19c.svg"
+  },
+  {
+    "revision": "0555bfb7e81f57a1efe6a53c7490abb7",
+    "url": "/react-portfolio/static/media/github-api.0555bfb7.svg"
   },
   {
     "revision": "0ff1a6f08182be4aa63a0b54da1b9e57",
@@ -84,6 +108,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/material-ui-1.82291019.svg"
   },
   {
+    "revision": "3ea10fb644c05e7c947611dae8d58a45",
+    "url": "/react-portfolio/static/media/mern_tip_calc.3ea10fb6.webp"
+  },
+  {
     "revision": "2985235df31b8742d893d5b7e80145c5",
     "url": "/react-portfolio/static/media/mongodb.2985235d.svg"
   },
@@ -96,8 +124,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/nodejs.a1231528.svg"
   },
   {
+    "revision": "95dd3e00f0920b6bed086d4a30d5b027",
+    "url": "/react-portfolio/static/media/portfolioUsingDjango.95dd3e00.webp"
+  },
+  {
     "revision": "d7c985e7cca077dc2d77f89a66573e35",
     "url": "/react-portfolio/static/media/postgresql.d7c985e7.svg"
+  },
+  {
+    "revision": "4bef4c3e368bd761b543e597d90b79bc",
+    "url": "/react-portfolio/static/media/product_hunt_clone.4bef4c3e.webp"
   },
   {
     "revision": "f435c5213a62436a70e201cd87001f2d",
